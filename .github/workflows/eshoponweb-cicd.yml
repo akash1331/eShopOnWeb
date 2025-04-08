@@ -9,7 +9,7 @@ env:
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e6b761fc-f852-4952-a285-9edfc03004db
-  WEBAPP-NAME: eshoponweb-webapp-jett
+  WEBAPP-NAME: eshoponweb-webapp-jettskye150
 
 
 jobs:
